@@ -1,5 +1,5 @@
-npm install
+安装：npm install
 
-npm run dev
+启动：npm run dev
 
 访问：域名/server/page.html
