@@ -1,5 +1,4 @@
-安装：npm install
-
-启动：npm run dev
-
+## 说明
+安装：npm install<br/>
+启动：npm run dev<br/>
 访问：域名/server/page.html
